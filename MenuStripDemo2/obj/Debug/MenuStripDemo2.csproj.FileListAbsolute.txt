@@ -1,0 +1,9 @@
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\bin\Debug\MenuStripDemo2.exe.config
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\bin\Debug\MenuStripDemo2.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\bin\Debug\MenuStripDemo2.pdb
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.csprojAssemblyReference.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.Form1.resources
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.Properties.Resources.resources
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.csproj.GenerateResource.cache
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.exe
+H:\OneDrive\School-CVVRS\Semester 2\Fundamentals of programming 2\Assignment #6\MenuStripDemo2\obj\Debug\MenuStripDemo2.pdb
